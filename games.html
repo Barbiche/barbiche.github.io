@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1>Games</h1>
+
+<ul>
+    {% for game in site.games %}
+    <li>
+        <h2><a href="{{ game.url }}">{{ game.display_name }}</a></h2>
+    </li>
+    {% endfor %}
+</ul>

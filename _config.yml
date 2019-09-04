@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+
+title: Thomas Guégan
+description: Games, rendering and other cool stuff development. Feel free to contact me!
+
+logo: assets/img/logo.png
+
+######################################
+
+collections:
+  games:
+    output: true
