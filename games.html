@@ -4,10 +4,10 @@ layout: default
 
 <h1>Games</h1>
 
-<ul>
+<ul class="game_list">
     {% for game in site.games %}
     <li>
-        <h2><a href="{{ game.url }}">{{ game.display_name }}</a></h2>
+        <h2><a href="{{ game.url }}"><img src="{{game.img_name}}"/></a></h2>
     </li>
     {% endfor %}
 </ul>
