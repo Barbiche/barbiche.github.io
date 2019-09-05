@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="https://kit.fontawesome.com/e01b24cddf.js"></script>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -22,14 +23,6 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -38,13 +31,14 @@
         </ul>
         {% endif %}
 
-        {% for item in site.data.navigation %}
+
         <ul>
+            {% for item in site.data.navigation %}
           <li>
-            <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{item.name}}</a>
+              <a href="{{ item.link }}"}>{{item.name}}</a>
           </li>
+          {% endfor %}
         </ul>
-        {% endfor %}
         
       </header>
       <section>
@@ -53,10 +47,23 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <ul class="social_list">
+          <li class="li_social">
+              <a href="https://www.linkedin.com/in/tguegan/"><i class="fab fa-linkedin fa-3x"></i></a> 
+          </li>
+          <li class="li_social">
+              <a href="mailto:guethomas3@gmail.com"><i class="far fa-envelope fa-3x"></i></a> 
+          </li>
+          <li class="li_social">
+              <a href="https://github.com/Barbiche"><i class="fab fa-github fa-3x"></i></a> 
+          </li>
+          <li class="li_social">
+              <a href="assets/files/resume.pdf"><i class="far fa-file fa-3x"></i></a> 
+          </li>
+          <li class="li_social">
+              <a href="https://twitter.com/theBarbiche"><i class="fab fa-twitter fa-3x"></i></a> 
+          </li>
+        </ul>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

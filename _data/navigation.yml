@@ -1,2 +1,5 @@
 - name: Games
   link: /games.html
+
+- name: About me
+  link: /about.html
