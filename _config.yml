@@ -5,6 +5,8 @@ description: Games, rendering and other cool stuff.
 
 logo: assets/img/logo.png
 
+social_icon_size: fa-3x
+
 ######################################
 
 collections:
