@@ -1,0 +1,8 @@
+<small>{{ post.date | date: "%-d %B %Y" }}</small>
+<h1>{{ post.title }}</h1>
+
+{{content}}
+
+{% if post.tags %}
+  <small>tags: <em>{{ post.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
