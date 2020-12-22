@@ -2,8 +2,10 @@
 layout: default
 ---
 
-<div class="blig-index">
-    {% assign post = site.posts.first %}
-    {% assign content = post.content %}
-    {% include post_detail.html %}
-</div>
+<ul class="game_list">
+    {% for game in site.games %}
+    <li class="game_thumb">
+        <a id="link" href="{{ game.url }}"><img id="image" src="{{game.img_mini}}"/></a>
+    </li>
+    {% endfor %}
+</ul>

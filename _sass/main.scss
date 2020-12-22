@@ -1,6 +1,13 @@
 .game_list
 {
+    display: flex;
+    flex-flow: row wrap;
     list-style-type:none
+}
+
+.game_thumb
+{
+    margin: 0 0 15px 20px
 }
 
 .social_list

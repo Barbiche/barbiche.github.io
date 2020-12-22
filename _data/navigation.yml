@@ -1,10 +1,9 @@
+- name: Games
+  link: /index.html
+
 - name: About me
   link: /about.html
 
-- name: Articles
-  link: /articles.html
 
-- name: Games
-  link: /games.html
 
 
