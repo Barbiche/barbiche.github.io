@@ -3,7 +3,7 @@
 # Tech
 
 - Ruby
--Jekyll
+- Jekyll
 
 # Install
 `gem install bundler`
