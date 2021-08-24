@@ -14,4 +14,4 @@ _This is the story of a lonely capsule. He/She is on a desert island, lost in th
 
 ![../assets/img/a_lost_fire_gameplay.png](../assets/img/a_lost_fire_gameplay.png)
 
-> This is my first compo game, so basically the first game where every pieces of content are handmade by me. This is not my best entry, but it was a pleasant relief, and even if this project remains a bit buggy, I do keep some affect to this game.
+This is my first compo game, which means the first game where every pieces of content are handmade by me. This is not my best entry, but it was a pleasant relief, and even if this project remains a bit buggy, I do keep some affect to this game.

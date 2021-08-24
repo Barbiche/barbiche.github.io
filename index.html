@@ -2,4 +2,14 @@
 layout: main
 ---
 
-<h2>Hello c'est le content</h2>
+<div class="games">
+    <h1>Games</h1>
+
+    <div class="game_list">
+        {% for game in site.games %}
+        <div class=list_item>
+            <a href="{{ game.url }}"><img src="{{game.img_name}}"/></a>
+        </div>
+        {% endfor %}
+    </div>
+</div>

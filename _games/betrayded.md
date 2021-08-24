@@ -1,7 +1,7 @@
 ---
 short_name: betrayded
 display_name: BETRAYDED
-img_name: assets/img/betrayded_title.png
+img_name: assets/img/betrayded_logo.png
 img_mini: assets/img/betrayded_logo.png
 context: Jam project
 layout: game
@@ -14,6 +14,4 @@ _During the cold war era, two enemy factions trade their prisoners: spies who we
 
 ![betrayded gameplay 1](../assets/img/betrayded_gameplay_1.png)
 
-The game is a two-player platformer and duel game. Each player controls a prisoner who has been captured by the opposite faction. In order to set you free, both factions agreed on a prisoner exchange, therefore, you're thrown into the exchange area with the opposite prisoner, and your ultimate goal is to reach your home faction. But be quick! If the opponent reach his faction before, there are no reasons for them to let you reach yours that easily!
-
-> BETRAYDED is a jam entry for the Ludum Dare #44, with our wonderful team of 6 people, and the first jam entry I've completed as a developer, with a team of 6.
+BETRAYDED is a jam entry for the Ludum Dare #44, with our wonderful team of 6 people, and the first jam entry I've completed as a programmer. The game is a two-player platformer and duel game. Each player controls a prisoner who has been captured by the opposite faction, and aim to return home safely.
