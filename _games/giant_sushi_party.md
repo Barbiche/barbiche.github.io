@@ -20,4 +20,4 @@ In GIANT Sushi party, your goal is to earn money by creating the perfect sushi f
 
 Stack up your ingredients, click on the plate and let the travelator do his office! But take care that you don’t run out of space, or your delicious plates might be… stuck in the loop!
 
-> This game was a special one for me as my main contribution for it was the music, and not the dev (singlely taken by [zoglu](http://zoglu.net/)). You can listen to the tracks directly here.
+This game was a special one for me as my main contribution for it was the music, and not the dev (singlely taken by [zoglu](http://zoglu.net/)).

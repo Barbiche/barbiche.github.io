@@ -7,4 +7,17 @@ context: Jam project
 layout: game
 ---
 
-TBD
+**Brackeys GameJam results: 4th Overall, 2nd Audio**
+
+_**Let's groove!** You're in the middle of a concert with your band, while an army of robots is ready to take you down. Recruit **new band members**, defend yourself using **the power of music**, andcreate **the best concert of all time!**_
+
+**itch.io**: [https://barbiche.itch.io/soloband](https://barbiche.itch.io/soloband)  
+**Brackeys GameJam Submission**: [https://itch.io/jam/brackeys-5/rate/928415](https://itch.io/jam/brackeys-5/rate/928415)
+
+![soloband_gameplay](../assets/img/soloband_gameplay.png)
+
+_Soloband_ is an entry for the [Brackeys Gamejam](https://itch.io/jam/brackeys-5), which theme was **Stronger Together**. We've made this game with mates [@Drestin](https://drestin.itch.io/) and [@Roilbauk](https://roilbauk.itch.io/).
+
+Music was really a drive for us on this game, as we absolutely wanted to work with an adaptive soundtrack. Therefore in _Soloband_, the music is played with either a guitar, either synth as lead instrument, depending of the one you've chosen at the beginning. Moreover, each band member you recruit in the game adds up its instrument to the global soundtrack, gradually revealing the complete form of the game's music... which gets more and more intense as well as you get closer to the final boss!
+
+All this intense music work was done by **Erwann Martin**. We also received help from **Gwendoline Mathais**, who worked on the game's artwork, and **Pierre Terakopiantz**, who created and animated the final boss. It was incredibly generous for them to help us, so thanks again, folks!
