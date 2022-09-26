@@ -1,16 +1,60 @@
-theme: jekyll-theme-minimal
+# Site settings
+name: Barbiche
+title: Barbiche | Software Engineer and more
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Barbiche's personal website.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+tags:
+- blog
+- dev
+- game development
+menu:
+- title: Home
+  url: /
+- title: About
+  url: /about
+- title: Contact
+  url: /contact
+show_hero: true # Show or not the most recent article in the front page.
 
-title: Thomas Guégan
-description: Games and stuff.
+# Social Media Settings
+github_username: Barbiche
+twitter_username: TheBarbiche
+instagram_username: TheBarbiche
 
+# Posts Settings
+show_time_bar: false # Article timebar, quite ugly to me.
+two_columns_layout: true # Activate the second column for posts, showing the "See also" section.
+
+# Build settings
+theme: jekflix
 logo: assets/img/logo.png
-
-social_icon_size: fa-3x
-
 github: [metadata]
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-paginate-content
 
-######################################
+# SASS
+sass:
+  style: compressed
 
-collections:
-  games:
-    output: true
+# Content paginator - Disabled for :num permalink bug to solve
+# paginate_content:
+# enabled: true
+# debug: false
+# collections:
+#   - posts
+# auto: false
+# separator: "--page-break--"
+# permalink: "/:num/"
+# seo_canonical: true
+# properties:
+#   part:
+#     is_generated: true
+#   last:
+#     is_generated: true
+#   single:
+#     is_generated: true
