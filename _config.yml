@@ -30,7 +30,6 @@ two_columns_layout: true # Activate the second column for posts, showing the "Se
 
 # Build settings
 theme: jekflix
-remote_theme: thiagorossener/jekflix-template
 logo: assets/img/logo.png
 github: [metadata]
 plugins:
