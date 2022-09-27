@@ -1,6 +1,6 @@
 # Site settings
-name: Barbiche
-title: Barbiche | Software Engineer and more
+name: Thomas "Barbiche" Guégan
+title: Thomas "Barbiche" Guégan | Software Engineer and more
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Barbiche's personal website.
@@ -23,6 +23,7 @@ show_hero: true # Show or not the most recent article in the front page.
 github_username: Barbiche
 twitter_username: TheBarbiche
 instagram_username: TheBarbiche
+formspree_form_id: mqkjqjne # id Formspree for contact page
 
 # Posts Settings
 show_time_bar: false # Article timebar, quite ugly to me.
