@@ -268,7 +268,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
-  jekflix
+  jekflix (~> 3.1.1)
   jekyll-feed (~> 0.12)
   kramdown-parser-gfm
   tzinfo (~> 1.2)
