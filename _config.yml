@@ -29,7 +29,7 @@ show_time_bar: false # Article timebar, quite ugly to me.
 two_columns_layout: true # Activate the second column for posts, showing the "See also" section.
 
 # Build settings
-theme: jekflix
+remote_theme: thiagorossener/jekflix-template #remote for github pages
 logo: assets/img/logo.png
 github: [metadata]
 plugins:
