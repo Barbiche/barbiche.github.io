@@ -23,6 +23,8 @@ show_hero: true # Show or not the most recent article in the front page.
 github_username: Barbiche
 twitter_username: TheBarbiche
 instagram_username: TheBarbiche
+itch_username: barbiche
+cv: true
 formspree_form_id: mqkjqjne # id Formspree for contact page
 
 # Posts Settings
