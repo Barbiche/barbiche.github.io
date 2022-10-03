@@ -21,7 +21,7 @@ _You are a French tourist just arriving in the historical center of Nicosia, cap
 
 This event is quite unique: it's a game jam gathering researchers and developers to create science-themed video games. Teams are formed around a researcher thesis or subject, and the challenge is to build a game that can introduce this thematic, or that can illustrate it.
 
-This jam occured during a festival named La Science Entre En Jeu (_Science enters the game_), organized by the French association [Lyon Game Dev](https://lyongamedev.pro/). Alongside the game jam was set some conferences on how video games can be a tremendous support for science and education.
+This jam occurred during a festival named La Science Entre En Jeu (_Science enters the game_), organized by the French association [Lyon Game Dev](https://lyongamedev.pro/). Alongside the game jam was set some conferences on how video games can be a tremendous support for science and education.
 
 ## Checkpoints
 
@@ -29,9 +29,9 @@ With [Charlotte](https://matote.itch.io/), [Drestin](https://drestin.itch.io/), 
 
 The Green Line of Cyprus, also known as the United Nations Buffer Zone in Cyprus, is a demilitarized zone which was established in 1964 and extended in 1974 following the the Turkish invasion of the island. This invasion divided the area in two parts:
  - the Republic of Cyprus in the South, which has legally the sovereignty on all the territory.
- - the Turkish Republic of Nothern Cyprus, controlling _de facto_ the nothern part of the country.
+ - the Turkish Republic of Northern Cyprus, controlling _de facto_ the northern part of the country.
 
- Moreover, the Green Line can notably be encountered in Nicosia, the capital of Cyprus, actively dividing the city in two parts. The fact that the the Republic of Cyprus is part of the European Union and the Schengen Area, but not Turkey, creates a lot of troubles for Nothern Nicosians who want to cross the border to the southern part of the city.
+ Moreover, the Green Line can notably be encountered in Nicosia, the capital of Cyprus, actively dividing the city in two parts. The fact that the the Republic of Cyprus is part of the European Union and the Schengen Area, but not Turkey, creates a lot of troubles for Northern Nicosians who want to cross the border to the southern part of the city.
 
  Through _Checkpoints - an evening in Nicosia_, we tried to express these issues in a narrative game, where you explore freely a simple representation of the capital, going through the border and discussing with citizens. What seems to be a very simple task - gathering friends to have a drink - can indeed be way more painful due to this particular context.
 
