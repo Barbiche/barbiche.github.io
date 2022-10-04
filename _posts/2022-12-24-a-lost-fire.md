@@ -16,4 +16,4 @@ _This is the story of a lonely capsule. He/She is on a desert island, lost in th
 
 ![../assets/img/a_lost_fire_gameplay.png](/assets/img/a_lost_fire_gameplay.png)
 
-This is my first compo game, which means the first game where every pieces of content are handmade by me. This is not my best entry, but it was a pleasant relief, and even if this project remains a bit buggy, I do keep some affect to this game.
+This is my first compo game, which means the first game where every pieces of content are handmade by me. On release, the game was unfortunately to buggy to provide the expected experience, and I didn't reached the polishing level I wanted to have for this type of game. Although, it was a really pleasant relief, and I keep some affect to this game, and notably the music, inspired by Breath of the Wild's OST, which got me a good score of **43rd in Audio.**

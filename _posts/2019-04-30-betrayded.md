@@ -16,4 +16,4 @@ _During the cold war era, two enemy factions trade their prisoners: spies who we
 
 ![betrayded gameplay 1](/assets/img/betrayded_gameplay_1.png)
 
-BETRAYDED is a jam entry for the Ludum Dare #44, with our wonderful team of 6 people, and the first jam entry I've completed as a programmer. The game is a two-player platformer and duel game. Each player controls a prisoner who has been captured by the opposite faction, and aim to return home safely.
+BETRAYDED is a jam entry for the Ludum Dare #44, with our wonderful team of 6 people, and the first jam entry I've completed as a programmer. The game is a two-player platformer and duel game. Each player controls a prisoner who has been captured by the opposite faction, and aim to return home safely. We really tried to emphasize the polishing and game quality, even implemented an introduction cinematic! End of the day, we received pretty good results, ranking **22nd overall** and **12th for the fun category**.
