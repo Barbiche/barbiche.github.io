@@ -234,7 +234,7 @@ Programming a chess engine revealed itself to be harder than I thought, but it w
 
 # References
 
-- [Sebastians Lague's Chess Programming video](https://youtu.be/U4ogK0MIzqk), clearly the major reference.
+- [Sebastian Lague's Chess Programming video](https://youtu.be/U4ogK0MIzqk), clearly the major reference.
 - [Chess Programming Wiki](https://www.chessprogramming.org/Main_Page) that contains a tremendous amount of useful info.
 - [Wikipedia on MiniMax](https://en.wikipedia.org/wiki/Minimax)
 
