@@ -1,5 +1,5 @@
 ---
-date: 2022-12-30 12:00:00
+date: 2022-12-30 00:00:00
 layout: post
 title: BarbChess - Building a chess engine
 subtitle: My attempt to create my own chess engine.
