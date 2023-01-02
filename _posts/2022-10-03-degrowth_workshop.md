@@ -3,7 +3,7 @@ date: 2022-10-03 00:00:00
 layout: post
 title: Natural building workshop at Alt Shift festival.
 subtitle: How to introduce people to natural building?
-image: /assets/img/degrowth-alt-shift-head.jpg
+image: /assets/img/degrowth-alt-shift-head.png
 description: >-
     How we facilitated a construction workshop in a degrowth festival in Austria.
 category: low-tech and degrowth
