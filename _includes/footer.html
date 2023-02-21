@@ -40,6 +40,11 @@
           <svg><use xlink:href="#icon-cv"></use></svg>
         </a>
       {% endif %}
+      {% if site.gitlab_username %}
+      <a href="https://gitlab.com/{{ site.gitlab_username}}" title="Gitlab">
+        <svg><use xlink:href="#icon-gitlab"></use></svg>
+      </a>
+      {% endif %}
     </p>
 
     {% include links.html %}
