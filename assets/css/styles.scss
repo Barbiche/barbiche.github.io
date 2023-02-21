@@ -1,43 +1,11 @@
 ---
 ---
+.info {
+    display: flex;
+}
 
-$themeColor: #ff0a16;
-$primaryDark: #141414;
-$accentDark: #ffffff;
-$lightGray: #f2f2f2;
-$texts: #333333;
 
-@import "jekflix";
-
-    .post.two-columns {
-        max-width: none;
-        flex-direction: row;
-        margin: 0 auto;
-        padding: 2.5rem 0;
-    }
-
-    .post-content li {
-        padding: .225rem 0;
-    }
-
-    .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
-        padding-top: 1.5rem;
-    }
-
-    .post-content p, .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6, .post-content ul, .post-content ol, .post-content iframe {
-        text-align: justify;
-        letter-spacing: normal;
-        line-height: normal;
-    }
-
-    .post-content p, .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6, .post-content ul, .post-content ol, .post-content iframe {
-        max-width: 80rem;
-    }
-
-    .highlight {
-        padding-left: 20px;
-    }
-
-    .see-also {
-        max-width: 315px;
-    }
+.wrapper {
+    width: min(700px, 100%);
+    margin: 0px auto;
+}

@@ -24,7 +24,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
 
-# theme
-gem "jekflix", "~> 3.1.1"
-
 gem "kramdown-parser-gfm"
